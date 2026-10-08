@@ -3,7 +3,7 @@
 
 #define BLYNK_TEMPLATE_ID "TMPL69InrAQ9r"
 #define BLYNK_TEMPLATE_NAME "LED ESP32"
-#define BLYNK_AUTH_TOKEN ""
+#define BLYNK_AUTH_TOKEN "IMo3tESBbZ9QooNAQPWkVWrG-VI9UCJ2"
 
 #include <BlynkSimpleEsp32.h>
 #include <TimeLib.h>
